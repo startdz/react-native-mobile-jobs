@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "react-native-jobs",
-    "slug": "react-native-jobs"
+    "slug": "react-native-jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "aa0ecb66-94e6-4fd6-9f80-dff589af83be"
+      }
+    },
+    "android": {
+      "package": "com.fuadphone.reactnativejobs"
+    }
   }
 }
